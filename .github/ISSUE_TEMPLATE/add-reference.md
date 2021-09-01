@@ -1,7 +1,7 @@
 ---
 name: Add reference
 about: 레퍼런스 추가 요청
-title: "[REFERECE]"
+title: "[REFERECE] 작성자(조직) - 레퍼런스제목"
 labels: 문서추가요청
 assignees: ''
 
